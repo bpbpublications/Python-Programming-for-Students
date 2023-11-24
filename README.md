@@ -5,7 +5,7 @@ Think smart, code better with quick project-oriented Python
 This is the repository for [Python Programming for Students
 ](https://bpbonline.com/products/python-programming-for-students?variant=43028917158088),published by BPB Publications.
 
-<img src="9789355519382.jpg">
+<img src="9789355516084.jpg">
 
 ## About the Book
 Embark on an exciting journey into the world of programming with "Python Programming for Students." In today’s quickly changing world of technologies, Python is serving as an up-and-coming programming language with its applicability in a variety of domains ranging from task-specific Python programs, standalone GUI applications, programming sustainable websites, developing interactive games, data analytics, and machine learning, artificial intelligence, etc.
