@@ -1,2 +1,2 @@
-# Learn Python for Students
- Learn Python for Students, by BPB Publications
+# Python Programming for Students
+ Python Programming for Students, by BPB Publications
